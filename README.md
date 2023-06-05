@@ -2,10 +2,11 @@
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
 <h3 align="left">
-  <li>Hello, I'm Sharath Kumar T P, an enthusiastic and dedicated fresher with a strong foundation in Java programming and a solid understanding of the Spring Boot framework</li>
-  <li>I am excited about leveraging my skills and knowledge to contribute to your project and gain practical experience in the industry.As a fresher, I am highly motivated to learn and grow in the field of Java and Spring Boot development</li>
-  <li>I am a fast learner, proactive in seeking knowledge, and dedicated to delivering high-quality code</li>
-  <li>I am eager to work collaboratively with a team, contribute to project goals, and enhance my skills through mentorship and hands-on experience</li>
+  <li>Hello, I'm Sharath Kumar T P, an enthusiastic and dedicated fresher with a strong foundation in Java programming and a solid understanding of the Spring Boot framework.</li>
+  <li>I am excited about leveraging my skills and knowledge to contribute to your project and gain practical experience in the industry.As a fresher, I am highly motivated to learn and grow in the field of Java and Spring Boot development.</li>
+  <li>I am a fast learner, proactive in seeking knowledge, and dedicated to delivering high-quality code.</li>
+  <li>I am eager to work collaboratively with a team, contribute to project goals, and enhance my skills through mentorship and hands-on experience.</li>
+  
   
   
   📚 Learning Environment:
@@ -15,6 +16,7 @@
 <li>Expanding knowledge and making significant strides in career</li>
 <li>Leveraging internship experience to enhance expertise in backend development</li>
 
+  
   
 💻 Web Development Opportunities:
 
