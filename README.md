@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharath Kumar T P</h1>
-<h3 align="center">
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
+
+<h3 align="left">
   <li>Hello, I'm Sharath Kumar T P, an enthusiastic and dedicated fresher with a strong foundation in Java programming and a solid understanding of the Spring Boot framework</li>
   <li>I am excited about leveraging my skills and knowledge to contribute to your project and gain practical experience in the industry.As a fresher, I am highly motivated to learn and grow in the field of Java and Spring Boot development</li>
   <li>I am a fast learner, proactive in seeking knowledge, and dedicated to delivering high-quality code</li>
