@@ -10,6 +10,7 @@
   
   📚 Learning Environment:
 
+  
 <li>Thriving in the excellent learning environment at Geekster</li>
 <li>Expanding knowledge and making significant strides in career</li>
 <li>Leveraging internship experience to enhance expertise in backend development</li>
@@ -17,6 +18,7 @@
   
 💻 Web Development Opportunities:
 
+  
 <li>Actively seeking opportunities in web development</li>
 <li>Gaining experience in building robust backend systems using Spring Boot</li>
 
