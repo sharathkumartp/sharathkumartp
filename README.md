@@ -9,7 +9,7 @@
   
   
   
-  📚 Learning Environment:
+  <h2> 📚 Learning Environment:</h2>
 
   
 <li>Thriving in the excellent learning environment at Geekster</li>
@@ -18,7 +18,7 @@
 
   
   
-💻 Web Development Opportunities:
+  <h2>💻 Web Development Opportunities:</h2>
 
   
 <li>Actively seeking opportunities in web development</li>
